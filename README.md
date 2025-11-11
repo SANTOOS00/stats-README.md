@@ -1,22 +1,11 @@
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" />
-</a>
+# مرحبا 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kh4wf0x;From+Morocco;AI+&+Web+Enthusiast;Full-Stack+Developer;Welcome!+ツ)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=dark)
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 🎯 About Me
-
-```javascript
-const khawf0x = {
-  name: "Kh4wf0x",
-  location: "Morocco 🇲🇦",
-  role: "Full Stack Developer",
-  interests: ["Web Dev", "AI", "Open Source"],
-  motto: "Code smart, debug smarter"
-};
+## تواصل معي
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kh4wf0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kh4wf0x)
